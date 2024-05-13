@@ -17,7 +17,6 @@ const handler = async (m, {conn, usedPrefix}) => {
       'externalAdReply': {
         'mediaUrl': 'https://www.instagram.com/ceogeripium.dzn',
         'mediaType': 2,
-        'previewType': 'pdf',
         'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
         'body': wm,
         'thumbnail': imagen1,
